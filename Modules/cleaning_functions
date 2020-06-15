@@ -1,9 +1,0 @@
-
-def show_valid_results(df, column):
-    dirty_list = df.x.tolist()
-    clean_list = [x for x in dirty_list if x!=null]
-    return clean_list
-
-def empty_rows(df, x):
-    list = df.x.tolist()
-    if 

@@ -1,4 +1,13 @@
 # Jaws
+
+1. Data Cleaning CSV:  
+    * Limpiar los datos  
+    * Analizar qué columnas son validas  
+    * Explorar las columnas  
+
+2. Data Reading CSV:  
+    * Hpótesis con los datos limpios y validados
+      
  ![Jaws.jpg](/Images/Jaws.jpg)  
 # DataCleaning.csv
  
@@ -52,9 +61,11 @@ Reflexión: Puede que esto se deba a que los países con probabilidad de muertes
 ### Hipótesis 2
 ### El ratio de muertes y ataques provocados/no provocados  
 El ratio de muertes en ataques provocados es: 0.0335  
-El ratio de muertes en ataques no provocados es: 0.2605 !!!   
-**RESULTADO: Los ataques no provocados son más mortales**   
-Reflexión: Sólo se han registrado 574 ataques provocados y 4595 ataques no provocados. Por lo tanto es posible que la muestra de ataques provocados no sea tán fiable como aquella de ataques no provocados.   
+El ratio de muertes en ataques no provocados es: 0.2605 !!!
+  
+**RESULTADO: Los ataques no provocados son más mortales** 💀💀💀💀💀💀
+  
+**Reflexión**: Sólo se han registrado 574 ataques provocados y 4595 ataques no provocados. Por lo tanto es posible que la muestra de ataques provocados no sea tán fiable como aquella de ataques no provocados.   
   
 ### Hipótesis 3  
 ### Relación entre la hora del ataque y si es provocado  
